@@ -8,7 +8,7 @@ A basic HTML, CSS challenge from Frontend Mentor. This is the solution to the ch
 <h2> Links </h2>
 
 <li> Link to solution: https://www.frontendmentor.io/solutions/results-summary-component-solution-W24WDjmN9k </li>
-<li> Link to live demo: https://blaze4884.github.io/Results-Summary-Component/ </li>
+<li> Link to live demo: https://daniyalmaster693-results-summary-component.vercel.app </li>
 
 <h2> What have I learned </h2>
 
